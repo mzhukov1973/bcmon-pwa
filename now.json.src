@@ -1,0 +1,19 @@
+{
+ "version": 2,
+ "name": "bcmon-pwa",
+ "project": "bcmon-pwa",
+ "alias": [
+   "bcmon-pwa.mzhukov.now.sh"
+ ],
+ "scope": "mzhukov",
+ "env": {
+   "BCI_API_KEY": "@bcmon-rest-api___bci_api_key"
+ },
+ "public":  false,
+ "github": {
+   "enabled": false,
+   "autoAlias": true,
+   "silent": false,
+   "autoJobCancelation": true
+ }
+}

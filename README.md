@@ -1,2 +1,31 @@
-# bcmon-pwa
-CRA-based Bitcoin™ blockchain monitor PWA for keeping an eye on arbitrary parameters of BTC blockchain (e.g. watching an addrress and triggering an event when a payment drops in). Uses public API of https://BlockChain.info - both REST &amp; websocket-based.
+### BCMonᵦ ─ Blockchain monitor PWA
+
+| | |
+|:---:|:---|
+|**Version:**|0.0.1|
+|**License:**|Apache-2.0|
+|**Author:**|Maxim&nbsp;Zhukov<br>email:&emsp;[mzhukov31415dev@gmail.com](mailto:mzhukov31415dev@gmail.com)<br>www:&emsp;[https://githuib.com/mzhukov1973](https://githuib.com/mzhukov1973))|
+| | |
+
+# 
+
+#### Description:
+```
+CRA-based Bitcoin™ blockchain monitor. Uses API provided by https://blockchain.info. Deployed via Zeit™ NOW™ 2.0 platform.
+```
+
+# 
+
+#### History:
+- `0.0.1`
+   - Initial commit - first working code.
+
+# 
+
+#### ToDo:
+- [&emsp;&emsp;]&nbsp;...
+    - [&emsp;&emsp;]&nbsp;...
+- [&emsp;&emsp;]&nbsp;...
+- [&emsp;&emsp;]&nbsp;...
+- [&emsp;&emsp;]&nbsp;...
+- [&emsp;&emsp;]&nbsp;...
