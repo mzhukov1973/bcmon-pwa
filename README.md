@@ -1,4 +1,4 @@
-### BCMonᵦ ─ Blockchain monitor PWA
+### BCMon│ᵦ ─ Blockchain monitor PWA
 
 | | |
 |:---:|:---|
