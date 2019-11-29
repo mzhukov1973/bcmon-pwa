@@ -1,6 +1,6 @@
 {
   "name":             "BC Monitor PWA",
-  "short_name":       "BCMonᵦ",
+  "short_name":       "BCMon│ᵦ",
   "dir":              "auto",
   "lang":             "en",
   "description":      "CRA-based Bitcoin™ blockchain monitor PWA for keeping an eye on arbitrary parameters of BTC blockchain (e.g. watching an address and triggering an event when a payment drops in). Uses public API of https://BlockChain.info - both REST & websocket-based.",
